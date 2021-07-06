@@ -43,3 +43,13 @@
     }
   }
 }
+
+@media (max-width: 720px) {
+  .container {
+    max-width: 100vw;
+  
+    .post {
+      max-width: 100vw;
+    }
+  } 
+}

@@ -31,3 +31,10 @@
     filter: brightness(0.8);
   }
 }
+
+@media (max-width: 720px) {
+  .signInButton {
+    max-width: 150px;
+    font-size: 0.75rem
+  }
+}

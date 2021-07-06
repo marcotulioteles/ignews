@@ -28,7 +28,9 @@ export default function Home({ product }: HomeProps) {
           </p>
           <SubscribeButton priceId={product.priceId}/>
         </section>
-        <Image src={girlCoding}/>
+        <div className={styles.girlCodingImage}>
+          <Image src={girlCoding}/>
+        </div>
       </main>
     </>
   )
