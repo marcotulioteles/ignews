@@ -43,4 +43,4 @@ The following tools were used in the construction of the project:
 - [Prismic CMS](https://prismic.io)
 
 ## Author
-Marco Tulio Teles - content studied in the bootcamp by 🚀[Rocketseat](https://rocketseat.com.br/)
+Marco Tulio Teles - content studied in the bootcamp Ignite - ReactJS Trail - by 🚀[Rocketseat](https://rocketseat.com.br/)
