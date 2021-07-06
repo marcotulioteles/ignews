@@ -13,7 +13,7 @@ Before you begin, you will need to have the following tools installed on your ma
 - On a terminal, clone this repository with the command:
 
 ```bash
-git clone https://github.com/marcotulioteles/ignite-dashgo.git
+git clone https://github.com/marcotulioteles/ignews.git
 ```
 
 - Open the folder project, and tap this command on terminal to install the development dependencies:
