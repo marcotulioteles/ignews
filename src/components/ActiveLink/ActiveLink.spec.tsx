@@ -32,4 +32,3 @@ describe('ActiveLink component', () => {
     expect(getByText('Home')).toHaveClass('active');
   });
 });
-
