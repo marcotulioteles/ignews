@@ -11,7 +11,7 @@ export function Header() {
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
         <div className={styles.logoImage}>
-          <Image src={logoImg} />
+          <img src="/images/logo.svg" alt="Logo Image"/>
         </div>
         <nav>
           <ActiveLink activeClassName={styles.active} href="/">
